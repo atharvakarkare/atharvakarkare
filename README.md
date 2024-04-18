@@ -15,5 +15,5 @@ Perl,
 Python,
 R
 
-Contacte me on:
+Contact me on:
 atharvakarkare14@gmail.com
