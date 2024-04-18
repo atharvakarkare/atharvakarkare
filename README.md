@@ -4,3 +4,13 @@
 
 🎮 When I'm not coding, you can find me gaming and exploring virtual worlds.
 
+**🔧 Technologies & Tools**
+
+Linux
+Bash
+HTML & CSS
+PHP
+Nextflow
+Perl
+Python
+R
