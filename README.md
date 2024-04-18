@@ -6,8 +6,8 @@
 
 **🔧 Technologies & Tools**
 
-Linux
-Bash
+Linux \\
+Bash  \\
 HTML & CSS
 PHP
 Nextflow
