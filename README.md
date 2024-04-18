@@ -6,11 +6,11 @@
 
 **🔧 Technologies & Tools**
 
-🐧 Linux 
-Bash
-HTML & CSS
-PHP
-Nextflow
-Perl
-Python
-R
+Linux.
+Bash.
+HTML & CSS.
+PHP.
+Nextflow.
+Perl.
+Python.
+R.
